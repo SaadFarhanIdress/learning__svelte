@@ -8,5 +8,6 @@ Learning Svelte!
   - [Components](00-component)
   - [Import & Export Components](01-import.export.components)
   - [Component Props](02-props)
+  - [Slot]
 
 </details>
