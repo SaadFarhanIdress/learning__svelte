@@ -16,5 +16,6 @@ Learning Svelte!
     - [Reactivity](./07-reactivity)
     - [Binding](./08-binding)
     - [Enchancing the Project](./09-enchancing-the-project)
+    - [Transitioning](./10-transitioning/) (Need further things to add)
 
 </details>
