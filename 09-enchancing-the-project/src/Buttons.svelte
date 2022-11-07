@@ -30,7 +30,7 @@
     font-family: "Nunito", sans-serif;
     display: block;
     font-size: 1.2rem;
-    margin: 10px;
+    margin-inline: 10px;
     transition: 1s;
     padding: 0.7em 1em;
     cursor: pointer;
