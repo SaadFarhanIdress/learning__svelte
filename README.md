@@ -1,4 +1,4 @@
-# svelte-basics
+# Basics of Svelte
 
 - [Components](00-component)
 - [Import & Export Components](01-import.export.components)
